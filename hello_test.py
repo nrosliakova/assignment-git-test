@@ -1,2 +1,2 @@
 
-txt = "Hello word!"
+txt = "Hello word! Have a wonderful day"
